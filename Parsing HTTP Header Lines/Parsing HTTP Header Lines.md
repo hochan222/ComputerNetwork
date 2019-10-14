@@ -82,3 +82,7 @@ CONNECTION: close\r
     request_headers = parse_headers(file)
     print('request_headers: ', request_headers)
 ```
+
+### Output
+
+![output](output.PNG)

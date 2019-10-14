@@ -10,7 +10,7 @@
 >> ######   1-2 [서비스 기획 배경](#서비스-기획-배경)
 >> ######   1-3 [서비스 소개](#서비스-소개)
 > ###### 2. HTTP
->> ######   1-1 [Parsing HTTP Header Lines]('./Parsing-HTTP-Header-Lines/Parsing-HTTP-Header-Lines.md')
+>> ######   1-1 [Parsing HTTP Header Lines](https://github.com/hochan222/ComputerNetwork/blob/master/Parsing%20HTTP%20Header%20Lines/Parsing%20HTTP%20Header%20Lines.md)
 >> ######   1-1 [HTTP 1.0](#HTTP-1.0)
 >> ######   1-2 [HTTP 2.0](#HTTP-2.0)
 >> ######   1-3 [HTTP 3.0](#HTTP-3.0)
